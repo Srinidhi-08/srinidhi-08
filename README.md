@@ -1,16 +1,16 @@
-## Hi there 👋
+🔭 I’m currently working on: Building seamless web applications with HTML, CSS, JavaScript, and Python.
 
-<!--
-**Srinidhi-08/srinidhi-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning: Advanced frontend frameworks and backend optimization techniques.
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on: Innovative web projects and creative tech solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I’m looking for help with: Integrating new technologies and improving project scalability.
+
+💬 Ask me about: Frontend development, backend solutions, and web design.
+
+📫 How to reach me: srinidhiv.aiml2023@citchenai.net
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: I’m passionate about blending technology with creativity to solve real-world problems.
+
