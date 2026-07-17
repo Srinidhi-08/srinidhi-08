@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=welcome+to+my+little+corner+of+github;building+AI-powered+and+full-stack+apps;always+learning,+always+growing;creating+with+code+and+creativity" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Srinidhi-08&color=FF69B4&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
+</p> -->
 
 <h3 align="center">˖°📎☕️˖°🌷⋆｡˚ a lil bit about me ⋆｡˚🎧🍡˖°</h3>
 
