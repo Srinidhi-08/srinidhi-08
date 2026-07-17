@@ -126,7 +126,7 @@
 
 ---
 
-<h3 align="center">💌 let's be friends 💌</h3>
+<h3 align="center">💌 let's connect 💌</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srinidhi-v-6a6778292/">
