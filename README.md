@@ -132,11 +132,7 @@
   <a href="https://www.linkedin.com/in/srinidhi-v-6a6778292/">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="mailto:srinidhiv.aiml2023@citchenai.net">
-    <img src="https://img.shields.io/badge/Email-FF85C0?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</p> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC2D1,100:FFAFCC&height=100&section=footer"/>
 
